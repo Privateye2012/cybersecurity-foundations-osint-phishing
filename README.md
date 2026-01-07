@@ -44,5 +44,3 @@ Original reports and answers are written in Portuguese, as the course was taught
 - Interpreted scan results to assess risk
 
 ---
-
-## Repository Structure
